@@ -1,4 +1,4 @@
-from ..models.operadoras_model import OperadorasModel
+from models.operadoras_model import OperadorasModel
 
 class OperadorasService:
     def __init__(self, csv_path):
